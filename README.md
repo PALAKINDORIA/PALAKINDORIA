@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PALAKINDORIA
-- 👀 I’m interested in reading novels 
-- 🌱 I’m currently pursuing my master's in physics from nith
-- 💞️ I’m looking to work on some projects to build up my carrier 
-- 📫 my instagram id @palakindoria and my gmail is palakgauir247@gmail.com
+
